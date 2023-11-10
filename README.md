@@ -2,4 +2,5 @@
 
 ## Salvando modificações no git
 
-pipipi popopo
+* comando git push
+* comando git pull
